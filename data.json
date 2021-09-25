@@ -17,26 +17,8 @@
         "subtitle":"subtitle 3",
         "image_url":"https://cdn.pixabay.com/photo/2015/11/19/21/10/glasses-1052010_960_720.jpg",
         "detail":"3"
-    },
-    {
-        "title":"Title 4",
-        "subtitle":"subtitle 4",
-        "image_url":"https://cdn.pixabay.com/photo/2015/11/19/21/10/glasses-1052010_960_720.jpg",
-        "detail":"4"
-    },
-    {
-        "title":"Title 5",
-        "subtitle":"subtitle 5",
-        "image_url":"https://cdn.pixabay.com/photo/2015/11/19/21/10/glasses-1052010_960_720.jpg",
-        "detail":"5"
-    },
-    {
-        "title":"Title 6",
-        "subtitle":"subtitle 6",
-        "image_url":"https://cdn.pixabay.com/photo/2015/11/19/21/10/glasses-1052010_960_720.jpg",
-        "detail":"6"
     }
-
+   
 ]
 
 
